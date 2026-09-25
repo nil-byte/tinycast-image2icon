@@ -1,0 +1,11 @@
+node_modules/
+raycast-env.d.ts
+**/.raycast-swift-build/
+**/.swiftpm/
+**/.build/
+assets/compiled_raycast_swift/
+**/Packages/
+*.xcodeproj/
+coverage/
+*.profraw
+.DS_Store
